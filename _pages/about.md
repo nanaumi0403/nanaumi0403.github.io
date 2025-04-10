@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+======
 About Me
 ======
-123456
+I am a graduate school of Graduate School of Mathematics, Nagoya University.

@@ -9,4 +9,4 @@ redirect_from:
 
 About Me
 ======
-I am a graduate school of Graduate School of Mathematics, Nagoya University. 
+I am a graduate school of Graduate School of Mathematics, Nagoya University. My research interest is algebraic topology. My advisor is Professor Lars Hesselholt.

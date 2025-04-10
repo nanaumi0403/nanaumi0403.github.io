@@ -22,7 +22,7 @@ repository               : "nanaumi0403/nanaumi0403.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "site-logo.png"
+  avatar           : "profile.png"
   name             : "Nanaumi Mayumi"
   pronouns         : "she/her"  
   bio              : "A Chinese transgender living in Japan"
